@@ -1,0 +1,112 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.buttonpad {
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+  color: black;
+}
+
+.Body1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.Body2 {
+  font-size: 25px;
+  margin-left: 8%;
+  margin-right: 8%;
+  text-align: center;
+}
+
+.Body3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Body3button {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 15px 150px;
+  text-align: center;
+}
+
+.Body3back {
+  background-image: linear-gradient(to right, yellow, red);
+  padding: 3px 3px;
+}
+
+.body3paddle {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.buttonBorder {
+  background-image: linear-gradient(to left, yellow, red);
+  background-size: cover;
+  padding: 4px;
+}
+
+.Body4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.picStyle {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.Body5 {
+  font-size: 24px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.Body6 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+
+.mobilemenu1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.MobileBody2 {
+  font-size: 18px;
+  margin-left: 8%;
+  margin-right: 8%;
+  text-align: center;
+}
+
+.MobileBody3 {
+
+}
+
+.MobileBody5 {
+  font-size: 18px;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+}
